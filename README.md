@@ -46,11 +46,11 @@ It provides clear insights into spending patterns through visual charts, slicers
 
 
 # Project Structure
-📁 Finance-Dashboard-Excel
-│── 📄 Dashboard.xlsx
-│── 📄 README.md
-│── 📁 Screenshots
-│      └── dashboard_view.png
+📁 Finance-Dashboard-Excel <br />
+│── 📄 Dashboard.xlsx <br />
+│── 📄 README.md <br />
+│── 📁 Screenshots <br />
+│      └── dashboard_view.png <br />
 
 
 # How to Use
